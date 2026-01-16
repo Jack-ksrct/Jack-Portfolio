@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background: #2e1065; 
+    background: #2e1065;
     padding: 20px 60px;
     display: flex;
     justify-content: space-between;
@@ -19,7 +19,7 @@ header {
 }
 
 .logo {
-    color: #14b8a6; 
+    color: #f472b6;
     font-size: 22px;
 }
 
@@ -31,7 +31,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #14b8a6;
+    color: #f472b6;
 }
 
 .hero {
@@ -55,7 +55,7 @@ nav a:hover {
 }
 
 .hero span {
-    color: #fbbf24; 
+    color: #fbbf24;
 }
 
 .section {
@@ -68,6 +68,7 @@ nav a:hover {
     color: #2e1065;
     font-size: 32px;
 }
+
 .skills {
     display: flex;
     flex-wrap: wrap;
@@ -76,9 +77,9 @@ nav a:hover {
 }
 
 .skills div {
-    background: #14b8a6;
+    background: #f472b6;
     padding: 10px 18px;
-    color: #042f2e;
+    color: #3b0a23;
     border-radius: 20px;
     font-weight: 500;
 }
